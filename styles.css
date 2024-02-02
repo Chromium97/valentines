@@ -1,0 +1,35 @@
+body{
+    background-color:orchid;
+}
+
+h1{
+    color: white;
+}
+
+.container{
+    text-align: center;
+}
+
+#container-hidden{
+    text-align: center;
+    visibility: hidden;
+}
+
+img{
+    border-radius: 20px;
+}
+
+button{
+    width: 17%;
+    height: 100%;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: rgb(196, 15, 15);
+    color: white;
+    border-color: white;
+}
+
+button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
